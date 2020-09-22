@@ -33,13 +33,30 @@
 
 	<nav class="navbar navbar-expand-md navbar-light">
 		<div class="navbar-nav">
-			<h2><a class="nav-link" href="adv.jpg">장점</a></h2>
-			<h2><a class="nav-link" href="wea.jpg">단점</a></h2>
-			<h2><a class="nav-link" href="academic.jpg">학력</a></h2>
-			<h2><a class="nav-link" href="cer.jpg">자격증</a></h2>
-			<h2><a class="nav-link" href="language.jpg">사용가능언어</a></h2>
+			<h2>
+				<a class="nav-link" href="adv.jsp">장점</a>
+			</h2>
+			<h2>
+				<a class="nav-link" href="wea.jpg">단점</a>
+			</h2>
+			<h2>
+				<a class="nav-link" href="academic.jpg">학력</a>
+			</h2>
+			<h2>
+				<a class="nav-link" href="cer.jpg">자격증</a>
+			</h2>
+			<h2>
+				<a class="nav-link" href="language.jpg">사용가능언어</a>
+			</h2>
 		</div>
 	</nav>
 
+	<!-- 제이쿼리 자바스크립트 추가하기 -->
+	<script src="./js/jquery.min.js"></script>
+	<!-- Popper 자바스크립트 추가하기 -->
+	<script src="./js/popper.min.js"></script>
+	<!-- 부트스트랩 자바스크립트 추가하기 -->
+	<script src="./js/bootstrap.min.js"></script>
+	a
 </body>
 </html>

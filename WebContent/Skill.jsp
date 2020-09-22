@@ -13,6 +13,7 @@
 <link rel="stylesheet" href="./css/custom.css">
 </head>
 <body>
+
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<a class="navbar-brand" href="index.jsp">SSJ_HomePage</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse"
@@ -26,16 +27,12 @@
 					href="Skill.jsp">보유스킬</a></li>
 				<li class="nav-item active"><a class="nav-link" href="QnA.jsp">질문게시판</a></li>
 				<li class="nav-item active"><a class="nav-link" href="Goal.jsp">목표</a></li>
-				<!-- 	<li class="nav-item dropdown"><a
-					class="nav-link dropdown-toggle" id="dropdown"
-					data-toggle="dropdown"> 회원 관리 </a>
-					<div class="dropdown-menu" aria-labelledby="dropdown">
-						<a class="dropdown-item" href="#">로그인</a> <a class="dropdown-item"
-							href="#">회원가입</a> <a class="dropdown-item" href="#">로그아웃</a>
-					</div></li>  -->
 			</ul>
 		</div>
 	</nav>
+
+
+
 	<!-- 제이쿼리 자바스크립트 추가하기 -->
 	<script src="./js/jquery.min.js"></script>
 	<!-- Popper 자바스크립트 추가하기 -->
